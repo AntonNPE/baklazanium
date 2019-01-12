@@ -1,1 +1,1 @@
-some new killer feature
+fix to SEH-2 issue
